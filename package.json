@@ -1,0 +1,14 @@
+{
+  "name": "photo-gallery-xampp",
+  "version": "1.0.0",
+  "description": "Photo Gallery using HTML/CSS/JavaScript, Node.js, Express, MySQL and XAMPP",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.12.0"
+  }
+}
